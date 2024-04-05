@@ -1,0 +1,10 @@
+.container{
+    position: relative;
+}
+.shape{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    position: absolute;
+    
+}
